@@ -5,6 +5,8 @@
       2. Numpy Features
       3. Pandas Features
       4. Matplotlib Features
+      5. Django
+      6. Flask
 ### 2. SQL/Kdb-Q
 
 ### 3. Machine Learning
