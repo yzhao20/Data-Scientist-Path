@@ -6,4 +6,6 @@
 
 ### 3. Machine Learning
 
-### 4. Software Engineering
+### 4. Math/Algorithms
+
+### 5. Software Engineering
