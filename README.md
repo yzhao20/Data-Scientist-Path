@@ -1,14 +1,15 @@
 ## Data-Scientist-Path
 
 ### 1. Python Programming
-      1. OOP
-      2. Numpy Features
-      3. Pandas Features
-      4. Matplotlib Features
-      5. Django
-      6. Flask
+      1. Numpy Features
+      2. Pandas Features
+      3. Matplotlib Features
+      4. Django
+      5. Flask
 ### 2. SQL/Kdb-Q
-
+      1. 
+      2. 
+      3. 
 ### 3. Machine Learning
       1. Linear Regression
       2. Logistic Regression
