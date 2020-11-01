@@ -7,10 +7,11 @@
       4. Scikit-learn
       5. TensorFlow
       6. PyTorch
+      
 ### 2. SQL/Kdb-Q
-      1. 
-      2. 
-      3. 
+      1. Basic Syntax
+      2. Data Structure
+      
 ### 3. Machine Learning
       1. Linear Regression
       2. Logistic Regression
@@ -26,6 +27,7 @@
         10.2 XGBoost
         10.3 LightGBM
         10.4 CatBoost
+        
 ### 4. Math/Algorithms
 
 ### 5. Software Engineering
