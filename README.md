@@ -1,6 +1,6 @@
-## Data-Scientist-Path
+### Data-Scientist-Path
 
-### 1. Python Programming
+#### 1. Python Programming
       1. Numpy Features
       2. Pandas Features
       3. Matplotlib Features
@@ -8,11 +8,11 @@
       5. TensorFlow
       6. PyTorch
       
-### 2. SQL/Kdb-Q
+#### 2. SQL/Kdb-Q
       1. Basic Syntax
       2. Data Structure
       
-### 3. Machine Learning
+#### 3. Machine Learning
       1. Linear Regression
       2. Logistic Regression
       3. Decision Tree
@@ -28,6 +28,6 @@
         10.3 LightGBM
         10.4 CatBoost
         
-### 4. Math/Algorithms
+#### 4. Math/Algorithms
 
-### 5. Software Engineering
+#### 5. Software Engineering
